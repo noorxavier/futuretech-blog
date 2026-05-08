@@ -58,7 +58,11 @@ export default function App() {
             <br />
             The Modern World
           </h1>
-
+          <div className="mt-6 flex justify-start">
+            <p className="text-lg md:text-xl text-gray-500 font-medium ml-180">
+              By Md Tauhid Noor
+            </p>
+          </div>
           <p className="text-2xl text-gray-600 mt-10 leading-relaxed max-w-4xl">
             Automation is rapidly transforming businesses, industries,
             workplaces, and everyday life. From Artificial Intelligence
